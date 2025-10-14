@@ -1,7 +1,6 @@
 //
 //  Item.swift
 //  flightOnHead
-//
 //  Created by Shorya Vardhan on 9/27/25.
 //
 
